@@ -1,0 +1,15 @@
+/*全局样式*/
+body {
+  font-family: "PingFang SC", Helvetica, Arial, sans-serif;
+}
+
+.active {
+  background: #86774d;
+}
+
+#root .ant-btn-ghost {
+  background-color: #00cccc;
+}
+#root .ant-menu-dark{
+  background:#282d36!important;
+}

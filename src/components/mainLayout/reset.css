@@ -1,0 +1,12 @@
+#reset .ant-menu>.ant-menu-submenu>.ant-menu-submenu-title{
+    padding:0;
+    height:auto;
+    text-align:center;
+  }
+#reset .ant-menu-vertical>.ant-menu-submenu>.ant-menu-submenu-title{
+    padding:0;
+    height:auto;
+    text-align:center;
+    background:red;
+  }
+
